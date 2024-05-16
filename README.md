@@ -15,8 +15,7 @@ proposed visual navigation method is validated through a
 simulation platform. Simulation experiments have shown that 
 in simple inland waterway scenarios, the proposed method 
 enables autonomous navigation of the vessel.
-Keywords—marine vessels, visual navigation, machine 
-learning, control algorithm, simulation
+
 The 3D software used for simulation is Unity 2019.2.3f1, 
 and the simulated water area is a small segment of the 
 previously mentioned waterway. Using the camera in Unity 
